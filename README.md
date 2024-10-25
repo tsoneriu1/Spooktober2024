@@ -1,7 +1,8 @@
 # Spooktober2024
 
 
-## Ghosthunter Game
+
+## Ghosthunter Game 👻
 
 You are a ghosthunter and need to search a haunted house for a ghost. 
 There are 5 rooms in the house that could be haunted. 
