@@ -14,3 +14,13 @@ The goal is to find the ghost as quickly as possible.
 #### Inspiration
 This game is based on the logic puzzle "Fox in the hole", also inspired by the game "Phasmophobia", a co-op horror game where you and your friends use ghost-hunting equipment to gather evidence of paranormal activity and figure out what is haunting the area. 
 The puzzle has a fox and 5 holes. Each night the fox moves to an adjecent hole. During the day you can search one hole. The goal is to find the fox. For this game the ghost replaces the fox and instead of holes its a haunted house with different rooms.
+
+### How To Play
+
+Run the ghosthunter.py file
+
+```
+python ghosthunter.py
+```
+
+Select the room number to search until you can find the ghost.
