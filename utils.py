@@ -54,15 +54,15 @@ def print_ghost(ghost):
  /    /
 //////
        """)
-        case "2": #obvious ghost
+        case "2": #poltergeist 
             print(""" 
     .-=,.
     (⊙_☉)
-    (   )
-    (  )
+    (   ]
+    {  )
     (/)
 """)
-        case "3":#sneaky ghost
+        case "3":#brownie 
             print("""
     ~
   /  \\
@@ -75,22 +75,30 @@ def print_ghost(ghost):
    \\
    /               
 """)
-        case "4": #elusive ghost
+        case "4": #sprite 
             print("""
-            ,---.
-            ( ｡･ ･｡)
-        ~~~;.....:~~
-            ,....;
-            ,... `
-        ` ..  .
-        .  .
+         ,---.
+        ( ｡･ ･｡)
+     ~~~;.....:~~
+    , " ,....;
+   '    ,... `
+  . - ` ..  .
+ ., .  .
             
                   """)
-        case "5": #agressive ghost
+        case "5": #wraith 
             print("""
-                   .--.
-                  (◣_◢ )
-                <~~.  .~~>
-                  (    )
-                  ////\\
+                 .--.
+                (◣_◢ )
+             <~~ #### ~~>
+                [{++}]
+                ////\\
                   """)
+        case "6": #twins
+            print("""
+   .....     .....
+  ( *  *)   {*  * }
+   (   )~~@~~{   }
+    ( )       { }
+     /         \\
+""")
