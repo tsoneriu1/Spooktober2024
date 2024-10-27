@@ -1,6 +1,6 @@
 # Spooktober2024
 
-
+![Ghosthunter](https://github.com/user-attachments/assets/e0e3691b-baf5-40c2-bd0f-de37887e9fe1)
 
 ## Ghosthunter Game 👻
 
