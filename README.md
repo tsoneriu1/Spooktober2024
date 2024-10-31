@@ -12,13 +12,14 @@ The goal is to find the ghost as quickly as possible.
 
 ### Game Modes
 
-* Classic. Regular gameplay.
+* Classic. Regular gameplay. Find the ghost within the 5 rooms. Moves into adjecent rooms.
 * Poltergeist. This ghost is loud and can give the play hints to where it is located. This can make the game easier.
 * Brownie. This entity has random movement. This is harder since the movement is not predictable. Player cannot use the normal strategy of expecting the ghost to show up in odd or even spaces, or select the same location expecting the ghost to move into it.
 * Sprite. The game is over when the entity disapears in 6 turns. This is the worst case for finding the ghost in 5 rooms.
 * Wraith: The game is over in 3 turns, and the ghost moves randomly. This is much harder and the player needs to be lucky to win.
 * Haunted Hotel Twins: This game has increased the number of rooms to 20, and one additional ghost. There is no ghost movement in this mode to keep game time low.
 
+[Check out the ghost lore here.](https://github.com/tsoneriu1/Spooktober2024/blob/main/MeetTheGhosts.md)
 
 #### Inspiration
 This game is based on the logic puzzle "Fox in the hole", also inspired by the game "Phasmophobia", a co-op horror game where you and your friends use ghost-hunting equipment to gather evidence of paranormal activity and figure out what type of paranormal entity is haunting the area. 
