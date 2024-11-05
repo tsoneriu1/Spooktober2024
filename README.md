@@ -34,3 +34,12 @@ python ghosthunter.py
 ```
 
 Select the room number to search until you can find the ghost.
+
+
+## Codecademy Spooktober Challenge Winner
+I started learning Python this year and I was really glad to apply what I learned so far.
+
+https://www.linkedin.com/posts/codecademy_winners-of-codecademys-spooktember-challenge-activity-7257849166452658177-oLvw?utm_source=share&utm_medium=member_desktop
+
+>This entry is impressively executed, featuring excellent ASCII art and a simple premise. The well-organized code makes for a satisfying, albeit short, gameplay experience. I believe it deserves the top spot because it runs intuitively and showcases thoughtful design with a clean code base. What stood out to me is the finesse in the programming, demonstrating that you don’t need complex code to create a great product.
+--Stephanie Wang
